@@ -1,0 +1,2 @@
+2do paso de  3 del recorrido
+ Este consiste en un tablero gigante. Los participantes son fichas. Usan petrodólares ficticios para adquirir derechos deportivos y enfrentan cartas basadas en casos reales. Quien firma un contrato recibe una cinta en la muñeca y pierde la voz durante un turno. El silencio se vuelve una condición física del juego. Tres minutos obligatorios de reflexión. El facilitador conecta decisiones del tablero con FIFA, F1, LIV Golf y tenis internacional.

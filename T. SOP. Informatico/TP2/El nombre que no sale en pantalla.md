@@ -1,0 +1,2 @@
+Ultimo de 3 del recorrido.
+Sala oscura, silenciosa y sin facilitador. El tiempo de permanencia es libre. La escala se percibe caminando entre las piezas. Cuenta con pantallas de contraste, deslizar a la derecha muestra la declaración pública. Deslizar a la izquierda revela datos, imágenes y consecuencias omitidas.
