@@ -22,3 +22,16 @@ A partir del evento definido en el TP2, se deberá avanzar hacia la etapa de dis
 	- Testeos: validación de la propuesta con personas usuarias.
 	- Propuestas de mejora: ajustes derivados de los resultados de los testeos.
 	- UI Kit: sistema de componentes e interfaz (tipografías, colores, botones, iconografía, estados, etc.) para cada prototipo.
+
+## Referentes digitales
+
+Los siguientes referentes fueron seleccionados por su relación con el deporte, la conciencia social, la organización de eventos y/o la calidad de su propuesta visual e interactiva. Cada caso aporta criterios aplicables al sitio web y al tótem de FAIR PLAY.
+
+- [[FairSquare]]
+- [[Bite Back - The Game Shouldn't Endanger Our Health]]
+- [[Kick Big Soda Out]]
+- [[Goal Click]]
+- [[Common Goal]]
+- [[Homeless World Cup]]
+- [[OFFF Barcelona]]
+- [[Tokyo KAWAII Natsu-Asobi 2026]]

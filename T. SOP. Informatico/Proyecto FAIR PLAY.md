@@ -16,3 +16,6 @@ La construccion de la marca se fue llevando acabo atravez de varias entregas del
 1) [[Research e Ideacion del Proyecto]]
 2) [[Marca y Evento]]
 3) [[Prototipado, UI y testeo del evento]] (Actualidad)
+
+El proyecto se esta desarrollando en figma : https://www.figma.com/design/c3ziAtzy0esbuUCFkWGkbL/T.-DE-SOP.-INF.-TP-1?t=A92DJoMmDxXNLjiz-0
+
