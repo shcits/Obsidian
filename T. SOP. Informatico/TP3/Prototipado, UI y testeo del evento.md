@@ -11,7 +11,8 @@ A partir del evento definido en el TP2, se deberá avanzar hacia la etapa de dis
 ## Aspectos, técnicas y herramientas a desarrollar en esta etapa Informe 
 - Investigación de sitios web: relevamiento de referentes digitales (imágenes, links y análisis conceptual) que sirvan como base para las decisiones de diseño de interfaz. 
 - Revisión y desarrollo de la marca del evento: terminar de definir y consolidar la identidad de marca, revisando su aplicación y coherencia en los distintos soportes. 
-- Definición de 3 Flows (task-flow, user-flow y wireflow): planteo de tres flujos de interacción, eligiendo una función principal a resolver y detallando el recorrido de la persona usuaria dentro del producto. Prototipos interactivos
+- Definición de 3 Flows (task-flow, user-flow y wireflow): planteo de tres flujos de interacción, eligiendo una función principal a resolver y detallando el recorrido de la persona usuaria dentro del producto. Explicacion de que son los flows: [[Flows]]
+- Prototipos interactivos
 - Sitio web del evento: prototipo interactivo navegable.
 - Tótem del evento: prototipo interactivo navegable para agilizar y enriquecer la experiencia presencial.
 - Para cada uno de los prototipos anteriores se deberá desarrollar: 
@@ -34,4 +35,12 @@ Los siguientes referentes fueron seleccionados por su relación con el deporte, 
 - [[Common Goal]]
 - [[Homeless World Cup]]
 - [[OFFF Barcelona]]
-- [[Tokyo KAWAII Natsu-Asobi 2026]]
+- [[Show Racism the Red Card]]
+
+## Flows Objetivo
+
+
+El objetivo principal es que una persona pueda reservar entradas gratuitas para el evento FAIR PLAY desde el sitio web de manera simple, clara y rápida.
+
+- [[TaskFlow]]
+- [[UserFlow]]
