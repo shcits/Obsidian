@@ -1,0 +1,8 @@
+node_modules/
+dist/
+evidence/
+blender/*.blend
+blender/*.blend1
+blender/previews/
+blender/__pycache__/
+blender/retired-models/
