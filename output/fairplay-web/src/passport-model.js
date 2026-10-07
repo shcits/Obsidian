@@ -9,6 +9,13 @@ export function homography(points){
 }
 export function inversePoint(h,x,y){const a=h[0]-x*h[6],b=h[1]-x*h[7],c=x-h[2],d=h[3]-y*h[6],e=h[4]-y*h[7],f=y-h[5],det=a*e-b*d;return {u:(c*e-b*f)/det,v:(a*f-c*d)/det}}
 export const stampRanges=[[.35,.48],[.48,.61],[.61,.74]];
+// Run each impression in real time so its rebound finishes even when scrolling stops.
+export function stampImpression(age,direction=1){
+ const reverse=direction<0;
+ if(age<0||age>=.6)return {scale:1,pressure:0,opacity:reverse?0:1};
+ const phase=reverse?.6-age:age;
+ return {scale:1+.18*Math.pow(1-phase/.6,3),pressure:direction*Math.sin(phase*28)*Math.exp(-phase*9),opacity:reverse?1-smooth(0,.6,age):1};
+}
 export function passportState(progress){
  const p=clamp(progress),opening=smooth(.10,.34,p)*(1-smooth(.82,.93,p));
  const completed=stampRanges.map(([a,b])=>p>=a+(b-a)*.5);
